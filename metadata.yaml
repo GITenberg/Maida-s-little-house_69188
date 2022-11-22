@@ -1,5 +1,8 @@
 _repo: Maida-s-little-house_69188
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69188-h/images/cover.jpg
 creator:
   author:
     agent_name: Gillmore, Inez Haynes
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1169
     wikipedia: https://en.wikipedia.org/wiki/Inez_Haynes_Irwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69188#Maida-s-little-house
 gutenberg_issued: '2022-10-20'
 identifiers:
   gutenberg: '69188'
